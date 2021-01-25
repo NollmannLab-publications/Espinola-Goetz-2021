@@ -30,3 +30,13 @@ plt.savefig("Fig1f.png")
 
 Code used for the acquisition and analysis of HiM data are included in the /code folder.
 
+Software packages were written by Jean-Bernard Fiche and Marcelo Nollmann at the Center for Structural Biology, a joint Institute from the Centre National de la Recherche Scientifique (CNRS), the Institut National de la Sante et la Recherche Medicale (INSERM), and the University of Montpellier, France.
+
+## More information on Hi-M
+
+If you want more information on Hi-M, read our repository [here](https://github.com/marcnol/HiM_protocol).
+
+## Contact
+
+Go to the [NollmannLab](https://www.nollmannlab.org/contact.html) group webpage.
+

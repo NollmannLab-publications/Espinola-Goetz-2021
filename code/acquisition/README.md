@@ -2,7 +2,7 @@
 
 
 
-This software package was written by JB. Fiche at the Center of Structural Biochemistry, Centre National de la Recherche Scientifique & Institut National de la Sante et la Recherche Medicale, France.
+This software package was written by JB. Fiche at the Center for Structural Biology, a joint Institute from the Centre National de la Recherche Scientifique (CNRS), the Institut National de la Sante et la Recherche Medicale (INSERM), and the University of Montpellier, France.
 
 ## Installation
 
